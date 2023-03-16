@@ -1,0 +1,41 @@
+body{
+    background-color: #73b1ca;
+}
+
+.cssFont_1 {
+    font-family: 'K26ToyBlocks123.ttf';
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #1866b9;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    }
+
+h2{
+    text-align: center;
+    color: #fff;
+    font-family: monospace;
+}
+
+.galeria{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+  
+  .galeria img{
+    max-width: 400px;
+    padding: 1rem;
+}
+
+  .galeria2 img{
+   
+    height: 400px;
+    width: 600px;
+   padding: 1rem;
+}
